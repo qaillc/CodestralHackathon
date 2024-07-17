@@ -1,0 +1,6 @@
+streamlit
+transformers
+mistral_common 
+mistral_inference
+huggingface_hub
+clarifai
